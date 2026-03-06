@@ -5,4 +5,4 @@ Interested in Data Science, Finance, and Econometrics
 
 ## Projects
 • Retail Sales Tableau Dashboard  
-• SQL Anaylitics Project
+• SQL Analytics Project
