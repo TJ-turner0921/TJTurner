@@ -1,8 +1,14 @@
-# TJTurner
+# TJ Turner
 
-Economics + Data Analytics Student  at UCSD
-Interested in Data Science, Finance, and Econometrics
+Economics student focused and Data Analytics student at UCSD
+
+## Skills
+Python | SQL | Tableau | Econometrics
 
 ## Projects
-• Retail Sales Tableau Dashboard  
-• SQL Analytics Project
+• Retail Sales Dashboard (Tableau)
+• SQL Programming Project
+
+
+## Interests
+Data Science • Data Analysis • Quantitative Finance
